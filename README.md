@@ -4,6 +4,8 @@
 
 Criar um classificador baseado em definições pré-definidas para orientar a LLM na classificação de textos com a utilização da API do ChatGPT.
 
+Para acessar a execução desse projeto no HuggingFace clique [MetaClassificadoSentimento](https://huggingface.co/spaces/rafaelcleversystems/MetaClassificadorSentimento).
+
 ## Modelo
 
 Para essa atividade utilizaremos OBRIGATORIAMENTE o modelo gpt-4.1-nano.
