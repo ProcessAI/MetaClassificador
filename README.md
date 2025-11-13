@@ -36,6 +36,11 @@ Nossa aplicação utilizará os seguintes componentes:
 
 6. Crie uma interface em streamlit para uma vez que o usuário informe o texto, realize a classificação com retorno visual
 
+| Positivo | Neutro | Negativo |
+|:---------:|:-------:|:---------:|
+| <img src="img/exemplo1.png" width="200"/> | <img src="img/exemplo2.png" width="200"/> | <img src="img/exemplo3.png" width="200"/> |
+
+
 7. Publique seu classificador no HuggingFace
 
   - **Cuidado para não expor a chave OpenAI, ela nunca deve estar versionada!!!!**
@@ -63,7 +68,6 @@ Responda os itens em formato json como descrito abaixo:
 """ + "{ \"classificacao\": coloque aqui a classificação., \"justificativa\": coloque aqui a justificativa. }"
 ```
 
-3. 
 
 
 
