@@ -68,6 +68,13 @@ Responda os itens em formato json como descrito abaixo:
 """ + "{ \"classificacao\": coloque aqui a classificação., \"justificativa\": coloque aqui a justificativa. }"
 ```
 
+3. Teste a aplicação streamlit deste exemplo
+```
+streamlit run .\classificador_streamlit.py
+```
+4. 
+5. 
+
 
 
 
